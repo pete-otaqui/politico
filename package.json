@@ -1,0 +1,28 @@
+{
+  "name": "politico",
+  "version": "0.1.0",
+  "description": "Like all politicians, make a series of promises.  Unlike politicians, make sure they are fulfilled.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pete-otaqui/politico.git"
+  },
+  "keywords": [
+    "promises",
+    "async",
+    "series"
+  ],
+  "author": "Pete Otaqui <pete@otaqui.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pete-otaqui/politico/issues"
+  },
+  "homepage": "https://github.com/pete-otaqui/politico",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
